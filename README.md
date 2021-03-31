@@ -19,7 +19,7 @@
 😄 Pronouns: he/him</br>
 ⚡ Fun fact: I like binging shows on <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"></br></br>
 </samp>
-<img src="https://github-readme-stats.vercel.app/api?username=yudhishmaran&show_icons=true&theme=highcontrast" align=left width=45%></br></br></br></br></br></br><br></br>
+<img src="https://github-readme-stats.vercel.app/api?username=yudhishmaran&show_icons=true&theme=highcontrast" align=left width=50%></br></br></br></br></br></br><br></br>
 
 <h2>
   Languages and Tools
