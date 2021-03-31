@@ -19,7 +19,7 @@
 😄 Pronouns: he/him</br>
 ⚡ Fun fact: I like binging shows on Netflix!</br></br>
 </samp>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" align=left width=50%> <img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=yudhx'>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" align=left width=50%><img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=yudhx'>
 
 <h2>
   Languages and Tools
