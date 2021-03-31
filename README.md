@@ -1,18 +1,17 @@
-<h2 align='left'>
-  Hey there <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! <img align='right'src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"> 
+<h1 align='left'>
+  Hey there <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! <img align='right' width='100px'src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"> 
   <a href="mailto:tectrixtech2@gmail.com">
   <img align='right' src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yudhishmaran/"> 
   <img align='right' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>&nbsp;&nbsp;  
-
-</h2>
+</h1>
 
 <samp>
 <p align='center'>
   <b align='justify'>A software engineering student and cybersecurity enthusiast from Kuala Lumpur, Malaysia.</b></br>
-  <b>Feel free to reach out to me!</b>
+  <b>I take a keen interest in solving various problems to make the world a better place!</b>
 </p>
   </samp>
 
