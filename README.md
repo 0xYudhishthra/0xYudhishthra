@@ -1,5 +1,5 @@
 <h1 align='left'>
-  Hey there, I'm Yudhish! <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">&nbsp; <img align='right' width='100px'> 
+  Hey there, I'm Yudhish!&nbsp;  <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">&nbsp; <img align='right' width='100px'> 
   <a href="mailto:tectrixtech2@gmail.com">
   <img align='right' src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
