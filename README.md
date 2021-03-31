@@ -47,14 +47,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yudhx" alt="Wakatime Stats" style="width: 250px;"/>
-
-
-
-
-
-
-
 <!--
 **Tectrix-tech/Tectrix-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
