@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hey there <img width='25px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! 
+  Hey there <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! 
 </h1>
 
 <samp>
@@ -22,6 +22,10 @@
 
 ## Profile Views
 <img align='left' src="https://profile-counter.glitch.me/yudhishmaran/count.svg">
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yudhishmaran&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 
 
