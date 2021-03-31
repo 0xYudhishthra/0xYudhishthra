@@ -17,7 +17,7 @@
   
 🔭 I’m currently working on building a portfolio website and projects that solves real-world issues.</br>
 😄 Pronouns: he/him</br>
-⚡ Fun fact: I like binging shows on Netflix!
+⚡ Fun fact: I like binging shows on Netflix!</br>
 </samp>
 <img src="https://github-readme-stats.vercel.app/api?username=yudhishmaran&show_icons=true&theme=highcontrast" align=left width=45% > 
 
