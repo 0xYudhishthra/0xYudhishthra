@@ -1,8 +1,5 @@
-<h3 align='center'>Profile Visits</h3>
-<h1 align='center'><img src="https://profile-counter.glitch.me/yudhishmaran/count.svg"><h1>
-  
-<h2 align='center'>
-  Hey there <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! 
+<h2 align='left'>
+  Hey there <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! <img align='right'src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim">
 </h2>
 
 <samp>
