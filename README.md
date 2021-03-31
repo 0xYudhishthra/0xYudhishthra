@@ -1,5 +1,10 @@
-# Hey there, I'm Yudhish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=yudhishmaran.yudhishmaran)
-I'm a Software Engineering student and also a cybersecurity enthusiast. I am passionate about making meaningful contributions to make the world a better place, no matter how small. Feel free to get in touch with me! </br>
+# Hey there, I'm Yudhish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=yudhishmaran.yudhishmaran) <a href="mailto:tectrixtech2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >
+</a>
+<a href="https://www.linkedin.com/in/yudhishmaran/">
+  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
+I'm a Software Engineering student and also a cybersecurity enthusiast. I am passionate about making meaningful contributions to make the world a better place, no matter how small. Feel free to reach out to me! </br>
 
 <a href="mailto:tectrixtech2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >
