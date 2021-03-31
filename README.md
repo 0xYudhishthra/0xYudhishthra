@@ -1,6 +1,7 @@
 <h1 align='center'>
   Hey there <img width='25px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! 
 </h1>
+
 <samp>
 <p align='center'>
   <b>A software engineering student and cybersecurity enthusiast from Kuala Lumpur, Malaysia.</b>
@@ -13,7 +14,6 @@
 <a href="https://www.linkedin.com/in/yudhishmaran/"> 
   <img align='center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>  
-I'm a Software Engineering student and also a cybersecurity enthusiast. I am passionate about making meaningful contributions to make the world a better place, no matter how small. Feel free to reach out to me! </br>
 
 
   
