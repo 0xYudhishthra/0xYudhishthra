@@ -21,13 +21,10 @@
 </samp>
 
 <table><tr>
-<td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="Nordic_trails.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" alt="Github Stats" style="width: 250px;"/> </td>
+<td> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yudhx" alt="Wakatime Stats" style="width: 250px;"/> </td>
 </tr></table>
 
-<p align='left'>
-<img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" align=left width=50%> <img src='https://github-readme-stats.vercel.app/api/wakatime?username=yudhx'></br></br></br></br></br>
-</p>
 
 <h2>
   Languages and Tools
