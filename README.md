@@ -8,14 +8,14 @@
 </p>
   </samp>
 
-<a href="mailto:tectrixtech2@gmail.com">
+<p align='center'>
+  <a href="mailto:tectrixtech2@gmail.com">
   <img align='center' src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yudhishmaran/"> 
   <img align='center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>  
-
-
+</a>&nbsp;&nbsp;  
+</p>
   
 
 
