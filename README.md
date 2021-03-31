@@ -14,16 +14,11 @@
   <b>I take a keen interest in solving various problems to make the world a better place!</b>
 </p>
   </samp>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhishmaran&theme=highcontrast&layout=compact" width=45% align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=yudhishmaran&show_icons=true&theme=highcontrast" align=left width=45% > 
 
 
-
-
-
-
-<p align='center'>
-  <a href="#"><img width='20%'src="https://github-readme-stats.vercel.app/api?username=yudhishmaran&show_icons=true&count_private=true&theme=dark"></a>
-  <a href="#"><img width='20%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhishmaran&show_icons=true&count_private=true&theme=dark"></a>
-</p>
 
 
 
