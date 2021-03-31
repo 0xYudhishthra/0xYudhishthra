@@ -1,6 +1,5 @@
-<h1 align='center'>
-  <img align='center' src="https://profile-counter.glitch.me/yudhishmaran/count.svg">
-<h1>
+<h1 align='center'><img src="https://profile-counter.glitch.me/yudhishmaran/count.svg"><h1>
+  
 <h1 align='center'>
   Hey there <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Yudhish! 
 </h1>
