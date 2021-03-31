@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Visual-studio-code&logoColor=white" > 
   </p>
 
-<h2>What I did this week</h2>
+<h2>Productivity Stats</h2>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
