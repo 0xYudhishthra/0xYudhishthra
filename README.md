@@ -9,9 +9,9 @@
 </h1>
 
 <samp>
-<p align='center'>
-  <b align='justify'>A software engineering student and cybersecurity enthusiast from Kuala Lumpur, Malaysia.</b></br>
-  <b>I take a keen interest in solving various problems to make the world a better place!</b>
+<p align='left'>
+  A software engineering student and cybersecurity enthusiast from Kuala Lumpur, Malaysia.
+  I take a keen interest in solving various problems to make the world a better place!
 </p>
   </samp>
   
