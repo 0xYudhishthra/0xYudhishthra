@@ -20,10 +20,10 @@
 ⚡ Fun fact: I like binging shows on Netflix!</br></br>
 </samp>
 
-<tr align='center'><table align='center'>
+<tr align='center'>
   <td> <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=My Github Stats&count_private=true" alt="Github Stats" style="width: 250px;"/></td>
   <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhx" alt="Github Stats" style="width: 250px;"/></td>
-</tr></table>
+</tr>
 
 <h2>
   Languages and Tools
