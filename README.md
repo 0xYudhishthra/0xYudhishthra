@@ -4,7 +4,9 @@
 
 <samp>
 <p align='center'>
-  <b>A software engineering student and cybersecurity enthusiast from Kuala Lumpur, Malaysia.</b>
+  <b align='justify'>A software engineering student and cybersecurity enthusiast from Kuala Lumpur, Malaysia.</b> 
+  </br><b>I take pride in making contributions that make the world a better place</b></br>
+  <b align='justify'>Feel free to reach out to me!</b>
 </p>
   </samp>
 
