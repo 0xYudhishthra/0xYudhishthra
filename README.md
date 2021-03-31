@@ -36,6 +36,7 @@
   </p>
 
 <!--<h2>Productivity Stats</h2>-->
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
