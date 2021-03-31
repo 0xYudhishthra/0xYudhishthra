@@ -1,6 +1,6 @@
 # Hey there, I'm Yudhish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<a href="https://music.apple.com/profile/yudhx_">
+<a href="https://music.apple.com/profile/yudhx_">{:target="_blank"}
   <img align='right' src="https://img.shields.io/badge/Apple Music-ffffff?style=for-the-badge&logo=apple-music&logoColor=black" >
 </a>
 <a href="mailto:tectrixtech2@gmail.com">
