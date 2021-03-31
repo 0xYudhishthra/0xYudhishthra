@@ -15,7 +15,6 @@
 </p>
   </samp>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhishmaran&theme=highcontrast&layout=compact" width=45% align=right>
 <img src="https://github-readme-stats.vercel.app/api?username=yudhishmaran&show_icons=true&theme=highcontrast" align=left width=45% > 
 
 
