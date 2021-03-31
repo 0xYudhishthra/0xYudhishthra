@@ -22,7 +22,7 @@
 
 <tr><table align='center'>
   <td> <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=My Github Stats&count_private=true" alt="Github Stats" style="width: 250px;"/></td>
-  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhx" alt="Github Stats" style="width: 250px;"/></td>
+  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhx&langs_count=10" alt="Github Stats" style="width: 250px;"/></td>
 </tr></table>
 
 <h2>
