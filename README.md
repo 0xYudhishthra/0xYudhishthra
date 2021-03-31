@@ -10,7 +10,7 @@
 
 <samp>
 <p align='left'>
-  A <b>software engineering</b> student and <b>cybersecurity enthusiast<b> from Kuala Lumpur, Malaysia.
+  A <b>software engineering</b> student and <b>cybersecurity enthusiast</b> from Kuala Lumpur, Malaysia.
   I take a keen interest in solving various problems to make the world a better place!
 </p>
   
