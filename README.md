@@ -21,7 +21,7 @@
 </samp>
 
 <tr>
-  <td> <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" alt="Github Stats" style="width: 250px;"/> </td>
+  <td> <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&count_private=true" alt="Github Stats" style="width: 250px;"/> </td>
   <td> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yudhx" alt="Wakatime Stats" style="width: 250px;"/> </td>
 </tr>
 
