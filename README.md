@@ -21,9 +21,9 @@
 </samp>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" align=left width=50%>
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=yudhx'>
+<img align='right' src='https://github-readme-stats.vercel.app/api/wakatime?username=yudhx'></br></br></br></br></br></br>
 
-<h2 align='left'>
+<h2>
   Languages and Tools
 </h2>
 <p float="left">
