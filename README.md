@@ -21,8 +21,7 @@
 </samp>
 
 <p align='left'>
-<img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" align=left width=50%>
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=yudhx'></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+<img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast" align=left width=50%><img src='https://github-readme-stats.vercel.app/api/wakatime?username=yudhx'></br></br></br></br></br>
 </p>
 
 <h2>
