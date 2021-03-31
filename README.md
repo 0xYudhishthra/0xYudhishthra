@@ -15,8 +15,8 @@
 </p>
   
   
-🔭 I’m currently working on building a portfolio website and projects that solves real-world issues.
-😄 Pronouns: he/him
+🔭 I’m currently working on building a portfolio website and projects that solves real-world issues.</br>
+😄 Pronouns: he/him</br>
 ⚡ Fun fact: I like binging shows on Netflix!
 </samp>
 
