@@ -20,9 +20,9 @@
 ⚡ Fun fact: I like binging shows on Netflix!</br></br>
 </samp>
 
-<tr><table>
-  <td align='left'> <img align='right' src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=My Github Stats&count_private=true" alt="Github Stats" style="width: 250px;"/></td>
-  <td align='right'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhx" alt="Github Stats" style="width: 250px;"/></td>
+<tr align='center'><table>
+  <td> <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=My Github Stats&count_private=true" alt="Github Stats" style="width: 250px;"/></td>
+  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhx" alt="Github Stats" style="width: 250px;"/></td>
 </tr></table>
 
 <h2>
