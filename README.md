@@ -20,8 +20,9 @@
 ⚡ Fun fact: I like binging shows on Netflix!</br>
 </samp>
 
-<img width="480px" align='center' src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Yudhish's Github Stats&count_private=true&hide_border=true" alt="Github Stats"/>
-
+<p align='center'>
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Yudhish's Github Stats&count_private=true&hide_border=true" alt="Github Stats"/>
+</p>
 
 <h2>
   Languages and tools that I'm familiar with
