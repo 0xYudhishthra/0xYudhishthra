@@ -20,7 +20,7 @@
 ⚡ Fun fact: I like binging shows on Netflix!</br>
 </samp>
 
-<p>
+<p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=yudhx&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Yudhish's Github Stats&count_private=true&hide_border=true" alt="Github Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhx&langs_count=10&layout=compact" alt="Github Stats">
 </p>
 
