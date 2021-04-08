@@ -41,7 +41,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 March, 2021 - 07 April, 2021
+
+Python       37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.42 % 
 ```
 <!--END_SECTION:waka-->
 
