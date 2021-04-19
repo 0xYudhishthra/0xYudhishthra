@@ -39,9 +39,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 April, 2021 - 17 April, 2021
+Week: 11 April, 2021 - 18 April, 2021
 
-Python       3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.45 % 
+Python       3 mins          ████████████████████░░░░░   80.45 % 
 ```
 <!--END_SECTION:waka-->
 
