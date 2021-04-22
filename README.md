@@ -39,10 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2021 - 20 April, 2021
-
-Other        2 hrs 26 mins   ████████████████████████▒   97.14 % 
-Python       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
