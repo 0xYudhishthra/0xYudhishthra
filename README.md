@@ -39,7 +39,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 May, 2021 - 03 June, 2021
+
+Python       38 mins         ███████████████▓░░░░░░░░░   63.29 % 
+Text         20 mins         ████████▒░░░░░░░░░░░░░░░░   33.46 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 <!--END_SECTION:waka-->
 
