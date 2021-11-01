@@ -39,7 +39,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 October, 2021 - 31 October, 2021
+
+Python   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
