@@ -39,9 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
-
-C      5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀   91.56 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
