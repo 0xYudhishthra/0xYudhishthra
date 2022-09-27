@@ -1,5 +1,5 @@
 <h1 align='left'>
-  Hey there, I'm Yudhish!&nbsp;  &nbsp; 
+  Hey there, I'm Yudhishthra Sugumaran!&nbsp;  &nbsp; 
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yudhishthra/"> 
   <img align='right' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
