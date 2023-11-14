@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
 YAML         4 hrs 18 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.12 %
 Bash         4 hrs 8 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.86 %
