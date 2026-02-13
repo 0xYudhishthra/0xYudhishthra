@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhishthra+%F0%9F%91%8B;technical+founder+building+synthos;30+hackathons+and+counting;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://github.com/0xYudhishthra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhishthra+%F0%9F%91%8B;technical+founder+building+synthos;30+hackathons+and+counting;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://yudhishthra.so)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xYudhishthra&color=blueviolet&style=flat-square)
 
@@ -30,7 +30,7 @@ prev [Nethermind](https://nethermind.io) (Starknet dev tooling) · [Etherscan](h
 - **Scroll Open Grand Prize winner** ($10k) + accepted into the **Scroll Incubator**
 - **Ethereum Foundation Devcon Scholar**, 1 of 50 students selected globally for Devcon VI (Bogota, 2022)
 - **ETHGlobal Buenos Aires Finalist**, Top 10 out of 475 teams
-- Led **[APUBCC](https://twitter.com/apaborneocrypto)** to the largest student blockchain club in Southeast Asia
+- Led **[APUBCC](https://apubcc.org)** to the largest student blockchain club in Southeast Asia
 - 30+ hackathons across 6 countries
 - Featured in [The Star](https://www.thestar.com.my/news/education/2024/05/05/apu-triumphs-at-ethtaipei-2024-hackathon), [Digital News Asia](https://www.digitalnewsasia.com/business/apu-blockchain-and-cryptocurrency-club-notch-win-eth-seoul-2023), [Bitget News](https://www.bitget.com/news/detail/12560605081065), [The Vibes](https://www.thevibes.com/articles/lifestyles/46807/winning-student-project-addresses-un-sustainability-goals)
 
@@ -38,9 +38,9 @@ prev [Nethermind](https://nethermind.io) (Starknet dev tooling) · [Etherscan](h
 
 ## What I'm Building
 
-- **[SynthOS](https://github.com/0xYudhishthra/synthos-app)** (main focus) - AI-powered cross-chain yield optimizer. **Scroll Open grand prize winner ($10k) + Scroll Incubator.**
+- **[SynthOS](https://synthos.fund)** (main focus) - AI-powered cross-chain yield optimizer. **Scroll Open grand prize winner ($10k) + Scroll Incubator.**
 - **[Yields.so](https://yields.so)** - exploring DeFi yield optimization on Solana. Mobile-first.
-- **[Aqua0](https://ethglobal.com/showcase/aqua0-u2krx)** - experimenting with cross-chain shared liquidity via 1inch Aqua + LayerZero
+- **[Aqua0](https://aquazero.xyz)** - experimenting with cross-chain shared liquidity via 1inch Aqua + LayerZero
 
 ---
 
