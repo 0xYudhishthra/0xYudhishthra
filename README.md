@@ -77,6 +77,15 @@ i learn best under pressure. ship fast, break things, win prizes, repeat.
 ### weekly dev activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 February 2026 - To: 12 February 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
