@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhi+%F0%9F%91%8B;technical+founder+building+synthos;40%2B+hackathon+prizes;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=440&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://github.com/0xYudhishthra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhi+%F0%9F%91%8B;technical+founder+building+synthos;30+hackathons+and+counting;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=440&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://github.com/0xYudhishthra)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xYudhishthra&color=blueviolet&style=flat-square)
 
-📍 **Kuala Lumpur, Malaysia** | 🔨 **Technical Founder** | 🧬 **Making DeFi accessible**
+📍 **Kuala Lumpur, Malaysia** | **Technical founder making DeFi accessible**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -23,54 +23,54 @@
 
 > Building a suite of products to make decentralized finance as easy as using a banking app.
 
-prev [Nethermind](https://nethermind.io) (Starknet dev tooling) · [Etherscan](https://etherscan.io) (infra & security) · founded [APUBCC](https://twitter.com/apaborneocrypto) (Malaysia's first student blockchain club)
+prev [Nethermind](https://nethermind.io) (Starknet dev tooling) · [Etherscan](https://etherscan.io) (infra & security) · led [APUBCC](https://twitter.com/apaborneocrypto) to the largest student blockchain club in Southeast Asia
 
 ## What I'm Building
 
-- **[SynthOS](https://github.com/0xYudhishthra/synthos-app)** (main focus) — AI-powered cross-chain yield optimizer. Cross-chain vaults across Morpho, Yearn, Fluid, Moonwell, Ionic with AI-driven yield recommendations. **Scroll Open grand prize winner ($10k) + Scroll Incubator.**
-- **[Yields.so](https://yields.so)** — exploring DeFi yield optimization on Solana. Mobile-first.
-- **[Aqua0](https://ethglobal.com/showcase/aqua0-u2krx)** — experimenting with cross-chain shared liquidity via 1inch Aqua + LayerZero
+- **[SynthOS](https://github.com/0xYudhishthra/synthos-app)** (main focus) - AI-powered cross-chain yield optimizer. **Scroll Open grand prize winner ($10k) + Scroll Incubator.**
+- **[Yields.so](https://yields.so)** - exploring DeFi yield optimization on Solana. Mobile-first.
+- **[Aqua0](https://ethglobal.com/showcase/aqua0-u2krx)** - experimenting with cross-chain shared liquidity via 1inch Aqua + LayerZero
 
 ---
 
-### 40+ hackathon prizes across 20+ competitions
+### 30 hackathons and counting
 
-i learn best under pressure — ship fast, break things, win prizes, repeat.
+i learn best under pressure. ship fast, break things, win prizes, repeat.
+
+> featured in [The Star](https://www.thestar.com.my/news/education/2024/05/05/apu-triumphs-at-ethtaipei-2024-hackathon), [Digital News Asia](https://www.digitalnewsasia.com/business/apu-blockchain-and-cryptocurrency-club-notch-win-eth-seoul-2023), [Bitget News](https://www.bitget.com/news/detail/12560605081065), [The Vibes](https://www.thevibes.com/articles/lifestyles/46807/winning-student-project-addresses-un-sustainability-goals)
 
 | # | hackathon | project | prize |
 |---|-----------|---------|-------|
 | 30 | **ETHGlobal HackMoney** (Feb '26) | [Uniforum](https://ethglobal.com/showcase/uniforum-psxf2) | Uniswap v4 Agentic Finance 3rd + ENS Prize |
-| 29 | **ETHGlobal Buenos Aires** (Nov '25) | [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx) | 🏆 Finalist (Top 10 / 475) + LayerZero 2nd + 1inch 4th + World Prize |
-| 28 | **TOKEN2049 Origins Singapore** (Oct '25) | SynthOS v2 | 🥇 1st Best Private Verifiable App/Agent (EigenLayer) |
+| 29 | **ETHGlobal Buenos Aires** (Nov '25) | [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx) | Finalist (Top 10 / 475) + LayerZero 2nd + 1inch 4th + World Prize |
+| 28 | **TOKEN2049 Origins Singapore** (Oct '25) | SynthOS v2 | 1st Best Private Verifiable App/Agent (EigenLayer) |
 | 27 | **ETHGlobal New Delhi** (Sep '25) | MoFo | Fetch.ai + Worldcoin Prizes |
 | 26 | **ETHGlobal Unite DeFi** (Aug '25) | [1Prime](https://ethglobal.com/showcase/1prime-tf1g3) | Bounty Winner |
-| 25 | **Scroll Open** (Mar '25) | SynthOS | 🥇 General Grand Prize ($10,000) + Incubator |
+| 25 | **Scroll Open** (Mar '25) | SynthOS | General Grand Prize ($10,000) + Incubator |
 | 24 | **ETHGlobal Bangkok** (Nov '24) | [PredPump](https://ethglobal.com/showcase/predpump-q8gxc) | Blockscout + Scroll 4th + Push Protocol |
 | 23 | **Base Around The World** (Nov '24) | [BasedAuth](https://devfolio.co/projects/lucaauth-5397) | Quadratic Pool Prize |
-| 22 | **ETHTokyo** (Aug '24) | FlappyQF | 🥇 Best Game on Scroll + 🥇 Best API3 Oracle + 2 Pool Prizes |
-| 21 | **Solana Hackfest** (Apr '24) | — | 🏆 Champion |
-| 20 | **ETHTaipei** (Mar '24) | [CrossYield](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/cltreqlo80a5ewc01nl7op85e/idea) | 🏅 4 bounties — Zircuit 2nd + Dyson 1st + ThunderCore 1st + Circle |
+| 22 | **ETHTokyo** (Aug '24) | FlappyQF | Best Game on Scroll + Best API3 Oracle + 2 Pool Prizes |
+| 21 | **Solana Hackfest** (Apr '24) | - | Champion |
+| 20 | **ETHTaipei** (Mar '24) | [CrossYield](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/cltreqlo80a5ewc01nl7op85e/idea) | 4 bounties: Zircuit 2nd + Dyson 1st + ThunderCore 1st + Circle |
 | 19 | **ETHGlobal Istanbul** (Nov '23) | [Wayve](https://ethglobal.com/showcase/wayve-4kzwf) | Bounty Winner |
 | 18 | **ETHKL 2023** (Oct '23) | [zkJ0M](https://devfolio.co/projects/zkjm-284a) | 2 Sponsor Prizes |
 | 17 | **ETHOnline** (Oct '23) | [MegaMask](https://ethglobal.com/showcase/megamask-kv55j) | Bounty Winner |
-| 16 | **Ethereum Singapore** (Sep '23) | [P2P Trading dApp](https://github.com/ETH-SG-HACKATHON) | 🥇 Best DeFi App |
+| 16 | **Ethereum Singapore** (Sep '23) | [P2P Trading dApp](https://github.com/ETH-SG-HACKATHON) | Best DeFi App |
 | 15 | **ETHGlobal Superhack** (Aug '23) | [ClubDAO](https://ethglobal.com/showcase/clubdao-e8p2n) | Bounty Winner |
-| 14 | **ETH Seoul** (Jun '23) | [Badge Protocol](https://devfolio.co/projects/badge-protocol-membership-87eb) | 🥇 Best Governance App ($3,000) |
+| 14 | **ETH Seoul** (Jun '23) | [Badge Protocol](https://devfolio.co/projects/badge-protocol-membership-87eb) | Best Governance App ($3,000) |
 | 13 | **Polygon APAC DevX** (Jun '23) | [Reignite](https://dorahacks.io/buidl/6048) | Bounty Winner |
 | 12 | **ETHGlobal Scaling Ethereum** (Mar '23) | [RecurriPay](https://ethglobal.com/showcase/reccuripay-j143d) | 2 Sponsor Prizes |
 | 11 | **ETHGlobal FVM Space Warp** (Feb '23) | [4Ever.Data](https://ethglobal.com/showcase/4ever-data-ntdkx) | FVM Jetpacks Prize |
-| 10 | **ASEAN MakeITSafe** (Nov '22) | ChildProTech | 🥈 1st Runner Up |
+| 10 | **ASEAN MakeITSafe** (Nov '22) | ChildProTech | 1st Runner Up |
 | 9 | **ETHGlobal Bogota** (Oct '22) | [GiveFire](https://ethglobal.com/showcase/givefire-the-collective-giving-protocol-9n7qf) | 2 Sponsor Prizes |
-| 8 | **TCS Sustainathon ASEAN** (Aug '22) | EduRealm | 🥉 2nd Runner Up |
-| 7 | **Octopus Network Mini Hackathon** (May '22) | — | 🥈 1st Runner Up |
-| 6 | **TCS Sustainathon Malaysia** (Jan '22) | — | 🥈 1st Runner Up |
-| 5 | **Xylem REACH Student Hackathon** (Oct '21) | SwiftBeacon | 🥇 1st Place ($4,000) |
-| 4 | **Startup Weekend KL @ APU** (Jul '21) | — | 🥇 1st Place |
-| 3 | **SIM Hacks** (Jun '21) | — | Community Award |
-| 2 | **Climate Hack** (May '21) | WasteBuster | 🥉 3rd Place + People's Choice Award |
-| 1 | **MY_Hackathon KL** (Nov '20) | — | Top 10 Finalist |
-
-> featured in [The Star](https://www.thestar.com.my/news/education/2024/05/05/apu-triumphs-at-ethtaipei-2024-hackathon), [Digital News Asia](https://www.digitalnewsasia.com/business/apu-blockchain-and-cryptocurrency-club-notch-win-eth-seoul-2023), [Bitget News](https://www.bitget.com/news/detail/12560605081065), [The Vibes](https://www.thevibes.com/articles/lifestyles/46807/winning-student-project-addresses-un-sustainability-goals)
+| 8 | **TCS Sustainathon ASEAN** (Aug '22) | EduRealm | 2nd Runner Up |
+| 7 | **Octopus Network Mini Hackathon** (May '22) | - | 1st Runner Up |
+| 6 | **TCS Sustainathon Malaysia** (Jan '22) | - | 1st Runner Up |
+| 5 | **Xylem REACH Student Hackathon** (Oct '21) | SwiftBeacon | 1st Place ($4,000) |
+| 4 | **Startup Weekend KL @ APU** (Jul '21) | - | 1st Place |
+| 3 | **SIM Hacks** (Jun '21) | - | Community Award |
+| 2 | **Climate Hack** (May '21) | WasteBuster | 3rd Place + People's Choice Award |
+| 1 | **MY_Hackathon KL** (Nov '20) | - | Top 10 Finalist |
 
 ---
 
@@ -114,19 +114,17 @@ i learn best under pressure — ship fast, break things, win prizes, repeat.
 
 ### recognition
 
-- **Ethereum Foundation Devcon Scholar** — 1 of 50 students selected globally for Devcon VI (Bogota, 2022)
-- Featured in **[The Star](https://www.thestar.com.my/news/education/2024/05/05/apu-triumphs-at-ethtaipei-2024-hackathon)**, **[Digital News Asia](https://www.digitalnewsasia.com/business/apu-blockchain-and-cryptocurrency-club-notch-win-eth-seoul-2023)**, **[The Vibes](https://www.thevibes.com/articles/lifestyles/46807/winning-student-project-addresses-un-sustainability-goals)**
-- Founded **[APUBCC](https://twitter.com/apaborneocrypto)** — Malaysia's first and largest student blockchain club
-- 40+ hackathon prizes across 20+ competitions spanning 6 countries
+- **Ethereum Foundation Devcon Scholar**, 1 of 50 students selected globally for Devcon VI (Bogota, 2022)
+- Led **[APUBCC](https://twitter.com/apaborneocrypto)** to the largest student blockchain club in Southeast Asia
+- 30 hackathons across 6 countries
 
 ### philosophy
 
-> "DeFi should be as easy as using a banking app." — I build products to solve real problems in decentralized finance, then ship them to the world. Currently exploring how AI changes everything about yield optimization.
+> "DeFi should be as easy as using a banking app." I build products to solve real problems in decentralized finance, then ship them to the world. Currently exploring how AI changes everything about yield optimization.
 
 <details>
 <summary>random facts</summary>
 
-- Based in KL · 25
 - Badminton player
 - Bread baker
 - Hiker
@@ -134,4 +132,3 @@ i learn best under pressure — ship fast, break things, win prizes, repeat.
 - Raspberry Pi tinkerer
 
 </details>
-
