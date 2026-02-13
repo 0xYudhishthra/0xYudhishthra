@@ -135,6 +135,3 @@ i learn best under pressure — ship fast, break things, win prizes, repeat.
 
 </details>
 
----
-
-*why are you still reading my github readme lol*
