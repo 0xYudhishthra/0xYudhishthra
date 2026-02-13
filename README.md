@@ -94,8 +94,6 @@ No activity tracked
 
 <img src="profile/github-metrics.svg" alt="stats" />
 
-<img src="profile/achievements.svg" alt="achievements" />
-
 <img src="profile/isocalendar.svg" alt="contribution calendar" />
 
 <picture>
@@ -117,11 +115,11 @@ No activity tracked
 
 - **Ethereum Foundation Devcon Scholar**, 1 of 50 students selected globally for Devcon VI (Bogota, 2022)
 - Led **[APUBCC](https://twitter.com/apaborneocrypto)** to the largest student blockchain club in Southeast Asia
-- 30 hackathons across 6 countries
+- 30+ hackathons across 6 countries
 
 ### philosophy
 
-> "DeFi should be as easy as using a banking app." I build products to solve real problems in decentralized finance, then ship them to the world. Currently exploring how AI changes everything about yield optimization.
+> "DeFi should be as easy as using a banking app." I build products to solve real problems in decentralized finance, then ship them to the world. Currently exploring how AI agents change everything about yield optimization.
 
 <details>
 <summary>random facts</summary>
