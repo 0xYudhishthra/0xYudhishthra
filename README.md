@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhi+%F0%9F%91%8B;technical+founder+building+synthos;30+hackathons+and+counting;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=440&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://github.com/0xYudhishthra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhishthra+%F0%9F%91%8B;technical+founder+building+synthos;30+hackathons+and+counting;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://github.com/0xYudhishthra)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xYudhishthra&color=blueviolet&style=flat-square)
 
@@ -83,25 +83,17 @@ i learn best under pressure. ship fast, break things, win prizes, repeat.
 
 ### github activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=0xYudhishthra&theme=darkhub&no-bg=true&no-frame=true&column=7" alt="trophy" />
+<img src="profile/github-metrics.svg" alt="stats" />
+
+<img src="profile/achievements.svg" alt="achievements" />
+
+<img src="profile/isocalendar.svg" alt="contribution calendar" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xYudhishthra/0xYudhishthra/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xYudhishthra/0xYudhishthra/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xYudhishthra/0xYudhishthra/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xYudhishthra&theme=dark&hide_border=true" alt="streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=0xYudhishthra&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xYudhishthra&layout=compact&theme=dark&hide_border=true" alt="languages" />
-</p>
 
 ---
 
