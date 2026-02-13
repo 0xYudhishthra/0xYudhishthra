@@ -51,21 +51,21 @@ i learn best under pressure. ship fast, break things, win prizes, repeat.
 | # | hackathon | project | description | prize |
 |---|-----------|---------|-------------|-------|
 | 30 | **ETHGlobal HackMoney** (Feb '26) | [Uniforum](https://ethglobal.com/showcase/uniforum-psxf2) | AI agents debate DeFi strategies and auto-execute trades on Uniswap v4 | Uniswap v4 Agentic Finance 3rd + ENS Prize |
-| 29 | **ETHGlobal Buenos Aires** (Nov '25) | [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx) | Cross-chain shared liquidity via Aqua AMMs and LayerZero | 🏆 Finalist (Top 10 / 475) + LayerZero 2nd + 1inch 4th + World Prize |
-| 28 | **TOKEN2049 Origins Singapore** (Oct '25) | SynthOS v2 | AI-powered cross-chain yield optimizer with private verifiable compute | 🏆 1st Best Private Verifiable App/Agent (EigenLayer) |
-| 27 | **ETHGlobal New Delhi** (Sep '25) | MoFo | - | Fetch.ai + Worldcoin Prizes |
-| 26 | **ETHGlobal Unite DeFi** (Aug '25) | [1Prime](https://ethglobal.com/showcase/1prime-tf1g3) | Cross-chain token swaps between EVM and NEAR via Siri voice commands | 🏆 Bounty Winner |
-| 25 | **Scroll Open** (Mar '25) | SynthOS | AI-powered cross-chain yield optimizer | 🏆 General Grand Prize ($10,000) + Incubator |
+| 29 | **ETHGlobal Buenos Aires** (Nov '25) | [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx) · [repo](https://github.com/0xYudhishthra/Aqua0) | Cross-chain shared liquidity via Aqua AMMs and LayerZero | 🏆 Finalist (Top 10 / 475) + LayerZero 2nd + 1inch 4th + World Prize |
+| 28 | **TOKEN2049 Origins Singapore** (Oct '25) | [SynthOS v2](https://github.com/0xYudhishthra/synthos-app) | AI-powered cross-chain yield optimizer with private verifiable compute | 🏆 1st Best Private Verifiable App/Agent (EigenLayer) |
+| 27 | **ETHGlobal New Delhi** (Sep '25) | [MoFo](https://github.com/0xYudhishthra/mofo) | - | Fetch.ai + Worldcoin Prizes |
+| 26 | **ETHGlobal Unite DeFi** (Aug '25) | [1Prime](https://ethglobal.com/showcase/1prime-tf1g3) · [repo](https://github.com/0xYudhishthra/1prime) | Cross-chain token swaps between EVM and NEAR via Siri voice commands | 🏆 Bounty Winner |
+| 25 | **Scroll Open** (Mar '25) | [SynthOS](https://github.com/0xYudhishthra/synthos-app) | AI-powered cross-chain yield optimizer | 🏆 General Grand Prize ($10,000) + Incubator |
 | 24 | **ETHGlobal Bangkok** (Nov '24) | [PredPump](https://ethglobal.com/showcase/predpump-q8gxc) | Permissionless prediction markets on any topic | Blockscout + Scroll 4th + Push Protocol |
-| 23 | **Base Around The World** (Nov '24) | [BasedAuth](https://devfolio.co/projects/lucaauth-5397) | Link NFT wallets to student cards with biometric auth on Base | Quadratic Pool Prize |
+| 23 | **Base Around The World** (Nov '24) | [BasedAuth](https://devfolio.co/projects/lucaauth-5397) · [repo](https://github.com/0xYudhishthra/BasedAuth) | Link NFT wallets to student cards with biometric auth on Base | Quadratic Pool Prize |
 | 22 | **ETHTokyo** (Aug '24) | FlappyQF | Quadratic funding meets on-chain gaming on Scroll | 🏆 Best Game on Scroll + Best API3 Oracle + 2 Pool Prizes |
 | 21 | **Solana Hackfest** (Apr '24) | - | - | 🏆 Champion |
 | 20 | **ETHTaipei** (Mar '24) | [CrossYield](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/cltreqlo80a5ewc01nl7op85e/idea) | Cross-chain self-repaying loans with Circle CCTP and account abstraction | 🏆 4 bounties: Zircuit 2nd + Dyson 1st + ThunderCore 1st + Circle |
-| 19 | **ETHGlobal Istanbul** (Nov '23) | [Wayve](https://ethglobal.com/showcase/wayve-4kzwf) | Loyalty points as ERC-20 tokens directed toward ESG initiatives | 🏆 Bounty Winner |
+| 19 | **ETHGlobal Istanbul** (Nov '23) | [Wayve](https://ethglobal.com/showcase/wayve-4kzwf) · [repo](https://github.com/0xYudhishthra/wayve-app) | Loyalty points as ERC-20 tokens directed toward ESG initiatives | 🏆 Bounty Winner |
 | 18 | **ETHKL 2023** (Oct '23) | [zkJ0M](https://devfolio.co/projects/zkjm-284a) | ZK prediction market reducing sentiment bias in sports betting | 2 Sponsor Prizes |
 | 17 | **ETHOnline** (Oct '23) | [MegaMask](https://ethglobal.com/showcase/megamask-kv55j) | Simplified crypto payments via invoices and payment links with AA | 🏆 Bounty Winner |
 | 16 | **Ethereum Singapore** (Sep '23) | [P2P Trading dApp](https://github.com/ETH-SG-HACKATHON) | Peer-to-peer decentralized trading platform | 🏆 Best DeFi App |
-| 15 | **ETHGlobal Superhack** (Aug '23) | [ClubDAO](https://ethglobal.com/showcase/clubdao-e8p2n) | Cross-DAO collaboration platform for short-term projects | 🏆 Bounty Winner |
+| 15 | **ETHGlobal Superhack** (Aug '23) | [ClubDAO](https://ethglobal.com/showcase/clubdao-e8p2n) · [repo](https://github.com/0xYudhishthra/ClubDAO) | Cross-DAO collaboration platform for short-term projects | 🏆 Bounty Winner |
 | 14 | **ETH Seoul** (Jun '23) | [Badge Protocol](https://devfolio.co/projects/badge-protocol-membership-87eb) | Privacy-preserving soulbound tokens for community recognition | 🏆 Best Governance App ($3,000) |
 | 13 | **Polygon APAC DevX** (Jun '23) | [Reignite](https://dorahacks.io/buidl/6048) | - | 🏆 Bounty Winner |
 | 12 | **ETHGlobal Scaling Ethereum** (Mar '23) | [RecurriPay](https://ethglobal.com/showcase/reccuripay-j143d) | Automated recurring payments and social recovery wallet | 2 Sponsor Prizes |
