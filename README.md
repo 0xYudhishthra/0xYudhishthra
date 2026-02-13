@@ -48,38 +48,38 @@ prev [Nethermind](https://nethermind.io) (Starknet dev tooling) · [Etherscan](h
 
 i learn best under pressure. ship fast, break things, win prizes, repeat.
 
-| # | hackathon | project | prize |
-|---|-----------|---------|-------|
-| 30 | **ETHGlobal HackMoney** (Feb '26) | [Uniforum](https://ethglobal.com/showcase/uniforum-psxf2) | Uniswap v4 Agentic Finance 3rd + ENS Prize |
-| 29 | **ETHGlobal Buenos Aires** (Nov '25) | [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx) | 🏆 Finalist (Top 10 / 475) + LayerZero 2nd + 1inch 4th + World Prize |
-| 28 | **TOKEN2049 Origins Singapore** (Oct '25) | SynthOS v2 | 🏆 1st Best Private Verifiable App/Agent (EigenLayer) |
-| 27 | **ETHGlobal New Delhi** (Sep '25) | MoFo | Fetch.ai + Worldcoin Prizes |
-| 26 | **ETHGlobal Unite DeFi** (Aug '25) | [1Prime](https://ethglobal.com/showcase/1prime-tf1g3) | 🏆 Bounty Winner |
-| 25 | **Scroll Open** (Mar '25) | SynthOS | 🏆 General Grand Prize ($10,000) + Incubator |
-| 24 | **ETHGlobal Bangkok** (Nov '24) | [PredPump](https://ethglobal.com/showcase/predpump-q8gxc) | Blockscout + Scroll 4th + Push Protocol |
-| 23 | **Base Around The World** (Nov '24) | [BasedAuth](https://devfolio.co/projects/lucaauth-5397) | Quadratic Pool Prize |
-| 22 | **ETHTokyo** (Aug '24) | FlappyQF | 🏆 Best Game on Scroll + Best API3 Oracle + 2 Pool Prizes |
-| 21 | **Solana Hackfest** (Apr '24) | - | 🏆 Champion |
-| 20 | **ETHTaipei** (Mar '24) | [CrossYield](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/cltreqlo80a5ewc01nl7op85e/idea) | 🏆 4 bounties: Zircuit 2nd + Dyson 1st + ThunderCore 1st + Circle |
-| 19 | **ETHGlobal Istanbul** (Nov '23) | [Wayve](https://ethglobal.com/showcase/wayve-4kzwf) | 🏆 Bounty Winner |
-| 18 | **ETHKL 2023** (Oct '23) | [zkJ0M](https://devfolio.co/projects/zkjm-284a) | 2 Sponsor Prizes |
-| 17 | **ETHOnline** (Oct '23) | [MegaMask](https://ethglobal.com/showcase/megamask-kv55j) | 🏆 Bounty Winner |
-| 16 | **Ethereum Singapore** (Sep '23) | [P2P Trading dApp](https://github.com/ETH-SG-HACKATHON) | 🏆 Best DeFi App |
-| 15 | **ETHGlobal Superhack** (Aug '23) | [ClubDAO](https://ethglobal.com/showcase/clubdao-e8p2n) | 🏆 Bounty Winner |
-| 14 | **ETH Seoul** (Jun '23) | [Badge Protocol](https://devfolio.co/projects/badge-protocol-membership-87eb) | 🏆 Best Governance App ($3,000) |
-| 13 | **Polygon APAC DevX** (Jun '23) | [Reignite](https://dorahacks.io/buidl/6048) | 🏆 Bounty Winner |
-| 12 | **ETHGlobal Scaling Ethereum** (Mar '23) | [RecurriPay](https://ethglobal.com/showcase/reccuripay-j143d) | 2 Sponsor Prizes |
-| 11 | **ETHGlobal FVM Space Warp** (Feb '23) | [4Ever.Data](https://ethglobal.com/showcase/4ever-data-ntdkx) | FVM Jetpacks Prize |
-| 10 | **ASEAN MakeITSafe** (Nov '22) | ChildProTech | 1st Runner Up |
-| 9 | **ETHGlobal Bogota** (Oct '22) | [GiveFire](https://ethglobal.com/showcase/givefire-the-collective-giving-protocol-9n7qf) | 2 Sponsor Prizes |
-| 8 | **TCS Sustainathon ASEAN** (Aug '22) | EduRealm | 2nd Runner Up |
-| 7 | **Octopus Network Mini Hackathon** (May '22) | - | 1st Runner Up |
-| 6 | **TCS Sustainathon Malaysia** (Jan '22) | - | 1st Runner Up |
-| 5 | **Xylem REACH Student Hackathon** (Oct '21) | SwiftBeacon | 🏆 1st Place ($4,000) |
-| 4 | **Startup Weekend KL @ APU** (Jul '21) | - | 🏆 1st Place |
-| 3 | **SIM Hacks** (Jun '21) | - | Community Award |
-| 2 | **Climate Hack** (May '21) | WasteBuster | 3rd Place + People's Choice Award |
-| 1 | **MY_Hackathon KL** (Nov '20) | - | 🏆 Top 10 Finalist |
+| # | hackathon | project | description | prize |
+|---|-----------|---------|-------------|-------|
+| 30 | **ETHGlobal HackMoney** (Feb '26) | [Uniforum](https://ethglobal.com/showcase/uniforum-psxf2) | AI agents debate DeFi strategies and auto-execute trades on Uniswap v4 | Uniswap v4 Agentic Finance 3rd + ENS Prize |
+| 29 | **ETHGlobal Buenos Aires** (Nov '25) | [Aqua0](https://ethglobal.com/showcase/aqua0-u2krx) | Cross-chain shared liquidity via Aqua AMMs and LayerZero | 🏆 Finalist (Top 10 / 475) + LayerZero 2nd + 1inch 4th + World Prize |
+| 28 | **TOKEN2049 Origins Singapore** (Oct '25) | SynthOS v2 | AI-powered cross-chain yield optimizer with private verifiable compute | 🏆 1st Best Private Verifiable App/Agent (EigenLayer) |
+| 27 | **ETHGlobal New Delhi** (Sep '25) | MoFo | - | Fetch.ai + Worldcoin Prizes |
+| 26 | **ETHGlobal Unite DeFi** (Aug '25) | [1Prime](https://ethglobal.com/showcase/1prime-tf1g3) | Cross-chain token swaps between EVM and NEAR via Siri voice commands | 🏆 Bounty Winner |
+| 25 | **Scroll Open** (Mar '25) | SynthOS | AI-powered cross-chain yield optimizer | 🏆 General Grand Prize ($10,000) + Incubator |
+| 24 | **ETHGlobal Bangkok** (Nov '24) | [PredPump](https://ethglobal.com/showcase/predpump-q8gxc) | Permissionless prediction markets on any topic | Blockscout + Scroll 4th + Push Protocol |
+| 23 | **Base Around The World** (Nov '24) | [BasedAuth](https://devfolio.co/projects/lucaauth-5397) | Link NFT wallets to student cards with biometric auth on Base | Quadratic Pool Prize |
+| 22 | **ETHTokyo** (Aug '24) | FlappyQF | Quadratic funding meets on-chain gaming on Scroll | 🏆 Best Game on Scroll + Best API3 Oracle + 2 Pool Prizes |
+| 21 | **Solana Hackfest** (Apr '24) | - | - | 🏆 Champion |
+| 20 | **ETHTaipei** (Mar '24) | [CrossYield](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/cltreqlo80a5ewc01nl7op85e/idea) | Cross-chain self-repaying loans with Circle CCTP and account abstraction | 🏆 4 bounties: Zircuit 2nd + Dyson 1st + ThunderCore 1st + Circle |
+| 19 | **ETHGlobal Istanbul** (Nov '23) | [Wayve](https://ethglobal.com/showcase/wayve-4kzwf) | Loyalty points as ERC-20 tokens directed toward ESG initiatives | 🏆 Bounty Winner |
+| 18 | **ETHKL 2023** (Oct '23) | [zkJ0M](https://devfolio.co/projects/zkjm-284a) | ZK prediction market reducing sentiment bias in sports betting | 2 Sponsor Prizes |
+| 17 | **ETHOnline** (Oct '23) | [MegaMask](https://ethglobal.com/showcase/megamask-kv55j) | Simplified crypto payments via invoices and payment links with AA | 🏆 Bounty Winner |
+| 16 | **Ethereum Singapore** (Sep '23) | [P2P Trading dApp](https://github.com/ETH-SG-HACKATHON) | Peer-to-peer decentralized trading platform | 🏆 Best DeFi App |
+| 15 | **ETHGlobal Superhack** (Aug '23) | [ClubDAO](https://ethglobal.com/showcase/clubdao-e8p2n) | Cross-DAO collaboration platform for short-term projects | 🏆 Bounty Winner |
+| 14 | **ETH Seoul** (Jun '23) | [Badge Protocol](https://devfolio.co/projects/badge-protocol-membership-87eb) | Privacy-preserving soulbound tokens for community recognition | 🏆 Best Governance App ($3,000) |
+| 13 | **Polygon APAC DevX** (Jun '23) | [Reignite](https://dorahacks.io/buidl/6048) | - | 🏆 Bounty Winner |
+| 12 | **ETHGlobal Scaling Ethereum** (Mar '23) | [RecurriPay](https://ethglobal.com/showcase/reccuripay-j143d) | Automated recurring payments and social recovery wallet | 2 Sponsor Prizes |
+| 11 | **ETHGlobal FVM Space Warp** (Feb '23) | [4Ever.Data](https://ethglobal.com/showcase/4ever-data-ntdkx) | Incentivized data labeling platform for fair AI model training | FVM Jetpacks Prize |
+| 10 | **ASEAN MakeITSafe** (Nov '22) | ChildProTech | Child safety technology platform | 1st Runner Up |
+| 9 | **ETHGlobal Bogota** (Oct '22) | [GiveFire](https://ethglobal.com/showcase/givefire-the-collective-giving-protocol-9n7qf) | Collective giving protocol for group donations to nonprofits | 2 Sponsor Prizes |
+| 8 | **TCS Sustainathon ASEAN** (Aug '22) | EduRealm | Education technology for sustainability | 2nd Runner Up |
+| 7 | **Octopus Network Mini Hackathon** (May '22) | - | - | 1st Runner Up |
+| 6 | **TCS Sustainathon Malaysia** (Jan '22) | - | - | 1st Runner Up |
+| 5 | **Xylem REACH Student Hackathon** (Oct '21) | SwiftBeacon | Emergency response and rapid alert system | 🏆 1st Place ($4,000) |
+| 4 | **Startup Weekend KL @ APU** (Jul '21) | - | - | 🏆 1st Place |
+| 3 | **SIM Hacks** (Jun '21) | - | - | Community Award |
+| 2 | **Climate Hack** (May '21) | WasteBuster | Waste management and recycling solution | 3rd Place + People's Choice Award |
+| 1 | **MY_Hackathon KL** (Nov '20) | - | - | 🏆 Top 10 Finalist |
 
 ---
 
