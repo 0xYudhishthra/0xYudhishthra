@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhishthra+%F0%9F%91%8B;technical+founder+building+synthos;30+hackathons+and+counting;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://yudhishthra.so)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey,+i'm+yudhishthra+%F0%9F%91%8B;technical+founder;30+hackathons+and+counting;making+defi+accessible+for+everyone&font=Fira+Code&center=false&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000)](https://yudhishthra.so)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xYudhishthra&color=blueviolet&style=flat-square)
 
