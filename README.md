@@ -88,18 +88,18 @@ i learn best under pressure. ship fast, break things, win prizes, repeat.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Total Time: 18 hrs 19 mins
+Total Time: 16 hrs 51 mins
 
-TypeScript   11 hrs 30 mins        >>>>>>>>>>>--------------   44.27 %
-Other        7 hrs 41 mins         >>>>>>>------------------   29.54 %
-Markdown     2 hrs 47 mins         >>>----------------------   10.71 %
-Solidity     1 hr 17 mins          >------------------------   04.96 %
-JSON         45 mins               >------------------------   02.90 %
-Docker       34 mins               >------------------------   02.24 %
-TOML         14 mins               -------------------------   00.93 %
-Bash         14 mins               -------------------------   00.92 %
+TypeScript   11 hrs 3 mins         >>>>>>>>>>>>-------------   48.05 %
+Other        6 hrs 9 mins          >>>>>>>------------------   26.76 %
+Markdown     2 hrs 2 mins          >>-----------------------   08.88 %
+Solidity     1 hr 17 mins          >------------------------   05.58 %
+JSON         39 mins               >------------------------   02.86 %
+Docker       34 mins               >------------------------   02.53 %
+TOML         14 mins               -------------------------   01.05 %
+Bash         14 mins               -------------------------   01.04 %
 ```
 
 <!--END_SECTION:waka-->
