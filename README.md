@@ -40,7 +40,7 @@ prev [Nethermind](https://nethermind.io) (Starknet dev tooling) · [Etherscan](h
 
 - **[SynthOS](https://synthos.fun)** - AI-powered cross-chain yield optimizer. **Scroll Open grand prize winner ($10k) + Scroll Incubator.**
 - **[Yields.so](https://yields.so)** - exploring DeFi yield optimization on Solana. Mobile-first.
-- **[Aqua0](https://aqua0.xyz)** - experimenting with cross-chain shared liquidity via 1inch Aqua + LayerZero
+- **[Aqua0](https://www.aqua0.xyz)** - experimenting with cross-chain shared liquidity via 1inch Aqua + LayerZero
 
 ---
 
