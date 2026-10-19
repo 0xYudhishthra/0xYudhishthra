@@ -44,13 +44,13 @@ prev [Nethermind](https://nethermind.io) (Starknet dev tooling) · [Etherscan](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
 Total Time: 3 mins
 
-Other      27 mins               >>>>>>>>>>>>>>>>>>>>>>---   89.00 %
-JSON       1 min                 >------------------------   05.80 %
-Markdown   1 min                 >------------------------   05.20 %
+Other      16 mins               >>>>>>>>>>>>>>>>>>>>>----   82.89 %
+JSON       1 min                 >>-----------------------   09.03 %
+Markdown   1 min                 >>-----------------------   08.08 %
 ```
 
 <!--END_SECTION:waka-->
